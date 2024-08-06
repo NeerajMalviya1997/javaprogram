@@ -1,0 +1,16 @@
+a. Boolean
+
+Size: 1 bit
+Value: true or false
+Usage: Used for simple flags that track true/false conditions.
+
+ex:--
+boolean isJavaFun = true;
+boolean isFishTasty = false;
+
+
+
+b. byte
+Size: 8 bits
+Value Range: -128 to 127
+Usage: Saves space in large arrays, primarily in place of integers.
