@@ -1,0 +1,13 @@
+* instance variable
+* object 
+* "new" operator
+* Encapsulation
+* Methods in Java  ----[Access_Modifiers] return_Type method_Name([param_List])[throws Exception_List]
+{
+----- instructions to represent a particular action-----
+ [return value]
+}
+
+*There are 2 types of Methods in Java:
+1. Concrete Method--public  void sayHello(){"whatever}
+2. Abstract Method --public abstract void sayHello()
